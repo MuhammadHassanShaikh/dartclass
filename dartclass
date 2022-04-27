@@ -1,0 +1,35 @@
+// code 1
+
+// import 'dart:io';
+// void main() {
+//   // int id = 605;
+//   stdout.write('Enter id ');
+//   var id = stdin.readLineSync();
+//   if (id == "601" || id == "602" || id == "603" || id == "604" || id == "605" || id == "606" )
+//   {
+//     print('Chair found successflluy');
+//     }
+//   else { print('Move in next class');
+//    }
+
+//  }
+
+
+// code 2
+
+// import 'dart:io';
+// void main()
+// {
+
+//   print('------------------');
+//   print('Enter visitor name');
+//   var a = stdin.readLineSync();
+//    print('------------------');
+//   print('Enter product title');
+//   var b = stdin.readLineSync();
+//   print('--------------------');
+//   print('Enter product quantity');
+//   var c =  stdin.readLineSync();
+//   print('---------------------------------------------');
+//   print('${a} ordered ${c}  ${b} on xyz clothing store');
+// }
